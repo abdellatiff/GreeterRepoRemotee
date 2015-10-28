@@ -1,7 +1,7 @@
 package edu.esprit.greeter;
 
 public class Greeter {
-
+	public String var4;
 		public String var2;
 	public String SayHello(String name){
 		/**
