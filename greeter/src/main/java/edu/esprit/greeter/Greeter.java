@@ -5,6 +5,8 @@ public class Greeter {
 	public String var3 ;
 	public String var4;
 		public String var2;
+		public String var5;
+
 	public String SayHello(String name){
 		/**
 		 * 
