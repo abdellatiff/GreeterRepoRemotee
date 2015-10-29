@@ -24,7 +24,7 @@
     
     <plugins>
    		<plugin> <!-- ignorer le test pour que jenkins puisse passer a la commande sonar:sonar -->
-   		<groupId>org.apache.laven.plugins</groupId>
+   		<groupId>org.apache.maven.plugins</groupId>
    		<artifactId>maven-surefire-plugin</artifactId>
    		<configuration>
    		<testFailureIgnore>true</testFailureIgnore>
