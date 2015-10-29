@@ -25,7 +25,7 @@ public class TestGreeter {
 	 @Test
 		public void itShouldSayHello() {
 			
-			String result = gr.SayHello("world");
+			String result = gr.SayHello("worlds");
 			Assert.assertEquals("Hello world", result);
 			
 			
